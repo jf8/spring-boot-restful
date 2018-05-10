@@ -1,0 +1,11 @@
+${AnsiColor.GREEN}   __                                __
+${AnsiColor.GREEN}  /\ \                              /\ \__
+${AnsiColor.GREEN}  \ \ \____     __     __     __  __\ \ ,_\  __  __
+${AnsiColor.GREEN}   \ \ '__`\  /'__`\ /'__`\  /\ \/\ \\ \ \/ /\ \/\ \
+${AnsiColor.GREEN}    \ \ \L\ \/\  __//\ \L\.\_\ \ \_\ \\ \ \_\ \ \_\ \
+${AnsiColor.GREEN}     \ \_,__/\ \____\ \__/.\_\\ \____/ \ \__\\/`____ \
+${AnsiColor.GREEN}      \/___/  \/____/\/__/\/_/ \/___/   \/__/ `/___/> \
+${AnsiColor.GREEN}                                                 /\___/
+${AnsiColor.GREEN}                                                 \/__/
+${AnsiColor.BRIGHT_BLUE}:: Beauty 🤓  :: Running Spring Boot ${spring-boot.version} ::
+:: https://www.fosun.com ::${AnsiColor.DEFAULT}

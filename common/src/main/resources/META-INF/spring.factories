@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.fosun.beauty.common.config.apidoc.SwaggerAutoConfiguration,\
+  com.fosun.beauty.common.config.apidoc.SwaggerPluginsAutoConfiguration,\
+  com.fosun.beauty.common.config.FosunProperties,\
+  com.fosun.beauty.common.info.FosunInfoContributorConfiguration,\
+  com.fosun.beauty.common.security.ssl.UndertowSSLConfiguration
